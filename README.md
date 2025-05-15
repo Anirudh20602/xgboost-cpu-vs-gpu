@@ -58,6 +58,7 @@ docker run -p 8888:8888 xgboost-benchmark
 Then open your browser and visit:  
 [http://localhost:8888](http://localhost:8888)  
 Paste the token shown in terminal to access the notebook.
+Password: 123456
 
 ---
 
