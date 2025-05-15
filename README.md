@@ -65,6 +65,8 @@ Paste the token shown in terminal to access the notebook.
 
 ```bash
 xgboost-cpu-vs-gpu/
+├── assets/
+│   └── comparison-chart.png
 ├── xgboost-cpu-vs-gpu.ipynb     # Notebook with CPU vs GPU comparison
 ├── Dockerfile                   # Environment definition
 ├── requirements.txt             # Python packages
